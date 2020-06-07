@@ -2,19 +2,10 @@
 @import url('https://fonts.googleapis.com/css?family=Overpass&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
 
-
-/*----- NeoNoire -----*/
-@font-face {
-  font-family: 'SN NeoNoire';
-  src: url('./fonts/neoNoire/SNNeoNoire-Regular.woff2') format('woff2');
-  font-weight: normal;
-  font-style: normal;
-}
-
 /*----- Dank Mono -----*/
 @font-face {
   font-family: 'Dank Mono';
-  src: url('../media/fonts/dankMono/DankMono-Regular.woff2') format('woff2');
+  src: url('./fonts/dankMono/DankMono-Regular.woff2') format('woff2');
   font-weight: normal;
   font-style: normal;
 }
@@ -22,14 +13,14 @@
 /*----- Source Sans Pro -----*/
 @font-face {
     font-family: 'Source Sans Pro';
-    src: url('../media/fonts/sourceSansPro/SourceSansPro-Regular.woff2') format('woff2');
+    src: url('./fonts/sourceSansPro/SourceSansPro-Regular.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Source Sans Pro';
-    src: url('../media/fonts/sourceSansPro/SourceSansPro-Bold.woff2') format('woff2');
+    src: url('./fonts/sourceSansPro/SourceSansPro-Bold.woff2') format('woff2');
     font-weight: bold;
     font-style: normal;
 }
@@ -37,14 +28,14 @@
 /*----- Ubuntu -----*/
 @font-face {
     font-family: 'Ubuntu';
-    src: url('../media/fonts/ubuntu/Ubuntu-Regular.woff2') format('woff2');
+    src: url('./fonts/ubuntu/Ubuntu-Regular.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
   font-family: 'Ubuntu';
-  src: url('../media/fonts/ubuntu/Ubuntu-Bold.woff2') format('woff2');
+  src: url('./fonts/ubuntu/Ubuntu-Bold.woff2') format('woff2');
   font-weight: bold;
   font-style: normal;
 }
