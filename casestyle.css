@@ -90,11 +90,12 @@ body {
 .header {
   padding: 38px;
   text-align: center;
-  background-image: url("https://via.placeholder.com/1120x560");
+  background-image: url(images/hero.png);
   background-position: center;
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: contain;
   color: white;
+  height: 20rem;
 }
 
 h1 {
