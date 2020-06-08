@@ -93,8 +93,9 @@ body {
   background-image: url(images/new_hero.png);
   background-position: center;
   background-repeat: no-repeat;
-  background-size: contain;
+  background-size: cover;
   color: white;
+  height: 10em;
 }
 
 h1 {
