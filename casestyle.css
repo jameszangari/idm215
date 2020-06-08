@@ -345,3 +345,7 @@ a.links {
   margin-left: 50%;
   transform: translateX(-50%);
 }
+
+img.image {
+  margin: 2rem 0;
+}
