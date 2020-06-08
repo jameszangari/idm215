@@ -337,7 +337,7 @@ a.links {
   font-family: 'Roboto', sans-serif;
 }
 
-[wframe] {
+[attr="wframe"] {
   max-width: 100%;
   padding: 0 20px;
   height: 40rem;
